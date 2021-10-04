@@ -1,0 +1,1 @@
+adicionar na themes/function.php
